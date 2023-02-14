@@ -307,6 +307,7 @@ body {
   display: flex;
   flex-direction: column;
   width: 100vw;
+  height: auto;
   overflow-y: scroll;
   align-items: center;
   justify-content: center;
@@ -376,9 +377,6 @@ body {
   color: white;
   display: flex;
   flex-direction: row;
-  /* justify-content: center;
-  align-items: center; */
-  /* overflow: hidden; */
 }
 
 .react-player {
